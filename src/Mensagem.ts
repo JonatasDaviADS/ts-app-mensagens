@@ -1,4 +1,4 @@
-import { Contatinho } from "./contatinho";
+import { Contatinho } from "./Contatinho";
 
 
 export abstract class Mensagem {
